@@ -2,7 +2,6 @@
   "name": "my-app",
   "version": "0.1.0",
   "homepage": ".",
-  // ...rest of your package.json
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
